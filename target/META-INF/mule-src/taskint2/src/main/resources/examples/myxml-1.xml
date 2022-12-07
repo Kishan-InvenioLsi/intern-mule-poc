@@ -1,0 +1,14 @@
+<orders>
+  <invoices>
+    <order-id>AB123</order-id>
+    <user-name>XYZ</user-name>
+    <phone-number>+91 9876543210</phone-number>
+    <mail>test@inveniolsi.com</mail>
+  </invoices>
+  <invoices>
+    <order-id>AB123</order-id>
+    <user-name>ABC</user-name>
+    <phone-number>+91 9876543211</phone-number>
+    <mail>test123@inveniolsi.com</mail>
+  </invoices>
+</orders>
